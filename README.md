@@ -1,4 +1,4 @@
-# cryptography-lab
+# Cryptography-lab
 This repo contains decrypt.py as lab 1 and reading assignment pdf.
 # Overview Lab 1 (decrypt.py)
 This Python script demonstrates an attack on the one-time pad cipher when the same key is reused multiple times. By analyzing multiple ciphertexts encrypted with the same key, it attempts to recover the original plaintext messages and partially reconstruct the encryption key.
